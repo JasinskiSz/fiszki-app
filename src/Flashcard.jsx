@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./Flashcard.css";
 
 function Flashcard() {
     const [isFlipped, setIsFlipped] = useState(false); // czy karta jest odwrócone?

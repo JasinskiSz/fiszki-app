@@ -1,0 +1,8 @@
+.flashcard {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 12px 18px;
+    border-radius: 12px;
+}
